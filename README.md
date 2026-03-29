@@ -81,4 +81,4 @@ UI-UX-Practicals/
 ---
 
 ## 👨‍💻 Author
-BCA UI/UX Practical File
+Sidra Shaikh 
